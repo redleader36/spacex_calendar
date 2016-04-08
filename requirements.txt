@@ -1,0 +1,5 @@
+urllib.request ; python_version >= '3.0'
+lxml
+icalendar
+datetime
+python-dateutil
